@@ -17,5 +17,8 @@ user login
 
 -  username : admin2
 -  password : admin 2
+alat alat yang di gunakan yaitu 
+xampp:
+dan data base yang di gunakan
 
 live web : localhost/sistem kependudukan
